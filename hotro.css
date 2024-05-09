@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(#6CFF95,#1E524E);
+    background-size: cover;
+    margin: 10px;
+    padding: 20px;
+}
+
+.support .input{
+    margin: 10px;
+    height: 1cm;
+    justify-content: center;
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid#ccc;
+    position: relative;
+}
+
+button{
+    height: 1cm;
+    width: 2cm;
+}
+
+button:hover{
+    background: pink;
+    height: 1cm;
+    width: 3cm;
+    padding: auto;
+    margin: auto;
+}
+
+.support2 h2{
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+}
+
+.support2 ul{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.support2 li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.question .asn li{
+  padding: auto;
+  margin: 10px;
+}
